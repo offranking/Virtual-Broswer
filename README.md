@@ -153,6 +153,4 @@ It also offers zero-knowledge [installation script (with HTTPS and Traefik)](htt
 
 Navigate to [.docker](.docker) folder for further information.
 
-## Support
 
-If you want to support this project, you can do it [here](https://github.com/sponsors/m1k1o).
